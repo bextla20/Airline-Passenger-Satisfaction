@@ -62,4 +62,8 @@ The whole code is in the file Airline_Passenger Satisfaction.ipynb.
  We see that absolutely Genders type are same percent.
  
  
+ 
+ ![Barplot](https://user-images.githubusercontent.com/62169942/155899463-1f81af34-5310-4e0e-9116-5cdf8c59e821.png)
+
+ Outliers for each feature show us what data have in our dataset. 
 
