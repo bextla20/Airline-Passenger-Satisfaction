@@ -61,14 +61,13 @@ The whole code is in the file Airline_Passenger Satisfaction.ipynb.
  
  We see that absolutely Genders type are same percent.
  
- 
- 
- ![algoritm](https://user-images.githubusercontent.com/62169942/155899504-aa463045-5b98-490f-a7ad-2dda5c46d5d9.png)
- 
-Using the Random Forest model to find only the important features and drop out lowest feature score improved acccuracy score with 96.50 and with KNN is 93.40
- 
+  
  
  ![Barplot](https://user-images.githubusercontent.com/62169942/155899463-1f81af34-5310-4e0e-9116-5cdf8c59e821.png)
 
  Outliers for each feature show us what data have in our dataset. 
 
+
+![algoritm](https://user-images.githubusercontent.com/62169942/155899504-aa463045-5b98-490f-a7ad-2dda5c46d5d9.png)
+ 
+Using the Random Forest model to find only the important features and drop out lowest feature score improved acccuracy score with 96.50 and with KNN is 93.40
