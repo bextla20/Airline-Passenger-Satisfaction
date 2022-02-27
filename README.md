@@ -51,4 +51,15 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 **Satisfaction**: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
 
-The main purpose of this dataset is to predict whether a future customer would be satisfied with their service and which aspect of the services offered by them have to be emphasized more to generate more satisfied customers. Data consists of total train and test data.  
+The main purpose of this dataset is to predict whether a future customer would be satisfied with their service and which aspect of the services offered by them have to be emphasized more to generate more satisfied customers. Data consists of total train and test data. 
+
+
+The whole code is in the file Airline_Passenger Satisfaction.ipynb.
+
+
+![Gender](https://user-images.githubusercontent.com/62169942/155899290-ecd8b96d-f8c2-41aa-9d24-9f05383973b3.png)
+ 
+ We see that absolutely Genders type are same percent.
+ 
+ 
+
